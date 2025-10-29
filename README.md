@@ -100,7 +100,7 @@ Based on the 7 segments, the following targeted actions are recommended:
 
 Key Insights
 
-The majority of UK customers purchase around seasonal cycles — reactivation campaigns should align with holidays.
+The majority of UK customers purchase around seasonal cycles  reactivation campaigns should align with holidays.
 
 About 11% of customers contribute over 45% of total sales, showing a classic long-tail distribution.
 
