@@ -1,6 +1,4 @@
-Here is a professional, data-analytics-focused README for your GitHub project, based on the provided notebook.
 
----
 
 # Customer Segmentation using RFM & K-Means Clustering
 
