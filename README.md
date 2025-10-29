@@ -88,15 +88,25 @@ These segments, while small in number, represent disproportionately high-value c
 
 Based on the 7 segments, the following targeted actions are recommended:
 
-| Segment | Strategic Action |
-| :--- | :--- |
-| **DELIGHT** | **(VIP Treatment)** Provide the highest tier of service: personal account managers, exclusive access, loyalty rewards. |
-| **REWARD** | **(Recognize & Retain)** Implement a robust loyalty program, offer early access to new products, and ask for reviews. |
-| **PAMPER** | **(Personalize High-Value)** Nurture with personalized outreach. Promote high-ticket items and luxury services. |
-| **RETAIN** | **(Re-engage & Value)** Send personalized "we miss you" offers and targeted promotions to maintain their high engagement. |
-| **UPSELL** | **(Increase Order Value)** Encourage higher spending with product bundles, subscription offers, and "you might also like" recommendations. |
-| **NURTURE** | **(Build the Relationship)** Implement a welcome email series, offer incentives for a second purchase, and provide product education. |
-| **RE-ENGAGE**| **(Win-Back)** Target with aggressive win-back campaigns, deep discounts, or surveys to understand why they lapsed. |
+| Segment                             | Strategic Action                                                                                                                  | Why It Works                                                                                                       |
+| :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| **DELIGHT (VIPs)**                  | Send early access invites to Christmas and seasonal product launches. Offer free express shipping and loyalty perks.              | UK retail has strong seasonality (Christmas, Easter, Mother's Day). Rewarding this group increases lifetime value. |
+| **REWARD (High-Value Loyalists)**   | Introduce “Refer a Friend” or “Buy Again” campaigns through email. Recommend new collections similar to their past purchases.     | They respond to discovery-based offers rather than discounts.                                                      |
+| **PAMPER (High-Spend, Infrequent)** | Offer reminder emails before major holidays, bulk-purchase bundles, and B2B-style volume discounts.                               | Likely corporate or event buyers who shop in batches — prompt them before key retail periods.                      |
+| **RETAIN (Loyal but Dormant)**      | Send reactivation emails featuring “Back in Stock” or “Top Picks You Missed.” Include small loyalty credit (£5 off).              | A subtle incentive can revive engagement without hurting margin.                                                   |
+| **UPSELL (Frequent, Low Value)**    | Recommend higher-margin alternatives, introduce “multi-buy” offers, and bundle related items (e.g., candle + holder).             | Their buying habit is frequent but low-ticket — push basket size growth.                                           |
+| **NURTURE (New Customers)**         | Automated post-purchase emails introducing product range, shipping benefits, and 10% off next order.                              | Strengthens habit formation within 30 days — critical for retention.                                               |
+| **RE-ENGAGE (Lapsed)**              | Use targeted win-back campaigns with discount codes and “We miss you” surveys. Remove from marketing list if inactive >12 months. | Prevents wasteful outreach costs while salvaging recoverable customers.                                            |
+
+Key Insights
+
+The majority of UK customers purchase around seasonal cycles — reactivation campaigns should align with holidays.
+
+About 11% of customers contribute over 45% of total sales, showing a classic long-tail distribution.
+
+Frequency outliers are potential subscription or bulk buyers, ideal for targeted B2B or loyalty programs.
+
+Retention is more cost-effective than acquisition focus on RETAIN and NURTURE groups.
 
 ## Tools & Libraries Used
 
